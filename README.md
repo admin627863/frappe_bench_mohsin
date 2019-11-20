@@ -49,7 +49,7 @@ To manually install frappe/erpnext, you can follow this [this wiki](https://gith
 
 Install bench as a *non root* user,
 
-	git clone https://github.com/frappe/bench bench-repo
+	git clone https://github.com/mohsinalimat/frappe_bench_mohsin bench-repo
 	pip install --user -e bench-repo
 
 Note: Please do not remove the bench directory the above commands will create
@@ -75,7 +75,7 @@ Note: Please do not remove the bench directory the above commands will create
 
 	The get-app command gets remote frappe apps from a remote git repository and installs them. Example: [erpnext](https://github.com/frappe/erpnext)
 
-		bench get-app erpnext https://github.com/frappe/erpnext
+		bench get-app erpnext https://github.com/mohsinalimat/frappe_erpnext_mohsin
 
 * Install apps
 
